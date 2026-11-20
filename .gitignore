@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+chat_history.db
+chat_history.db-shm
+chat_history.db-wal
